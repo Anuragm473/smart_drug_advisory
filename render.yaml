@@ -13,4 +13,4 @@ services:
         value: production
     buildCommand: 
       - pip install -r requirements.txt
-    startCommand: gunicorn app:app
+    startCommand: gunicorn main:app
