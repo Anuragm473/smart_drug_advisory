@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: flask-app
+    runtime: python
+    repo: https://github.com/Anuragm473/smart_drug_advisory # Replace with your repo
+    branch: main
+    region: oregon  # You can change this
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9  # Change based on your app
+      - key: FLASK_ENV
+        value: production
+    buildCommand: 
+      - pip install -r requirements.txt
+    startCommand: gunicorn app:app
