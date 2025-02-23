@@ -95,26 +95,5 @@ def home():
 
 
 
-# about view funtion and path
-@app.route('/about')
-def about():
-    return render_template("about.html")
-# contact view funtion and path
-@app.route('/contact')
-def contact():
-    return render_template("contact.html")
-
-# developer view funtion and path
-@app.route('/developer')
-def developer():
-    return render_template("developer.html")
-
-# about view funtion and path
-@app.route('/blog')
-def blog():
-    return render_template("blog.html")
-
-
 if __name__ == '__main__':
-
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
