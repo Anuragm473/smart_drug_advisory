@@ -1,411 +1,250 @@
 ,Unnamed: 0,disease,workout
-0,0,Fungal infection,Avoid sugary foods
-1,1,Fungal infection,Consume probiotics
-2,2,Fungal infection,Increase intake of garlic
-3,3,Fungal infection,Include yogurt in diet
-4,4,Fungal infection,Limit processed foods
-5,5,Fungal infection,Stay hydrated
-6,6,Fungal infection,Consume green tea
-7,7,Fungal infection,Eat foods rich in zinc
-8,8,Fungal infection,Include turmeric in diet
-9,9,Fungal infection,Eat fruits and vegetables
-10,10,Allergy,Avoid allergenic foods
-11,11,Allergy,Consume anti-inflammatory foods
-12,12,Allergy,Include omega-3 fatty acids
-13,13,Allergy,Stay hydrated
-14,14,Allergy,Eat foods rich in vitamin C
-15,15,Allergy,Include quercetin-rich foods
-16,16,Allergy,Consume local honey
-17,17,Allergy,Limit processed foods
-18,18,Allergy,Include ginger in diet
-19,19,Allergy,Avoid artificial additives
-20,20,GERD,Consume smaller meals
-21,21,GERD,"Avoid trigger foods (spicy, fatty)"
-22,22,GERD,Eat high-fiber foods
-23,23,GERD,Limit caffeine and alcohol
-24,24,GERD,Chew food thoroughly
-25,25,GERD,Avoid late-night eating
-26,26,GERD,Consume non-citrus fruits
-27,27,GERD,Include lean proteins
-28,28,GERD,Stay hydrated
-29,29,GERD,Avoid carbonated beverages
-30,30,Chronic cholestasis,Consume a low-fat diet
-31,31,Chronic cholestasis,Eat high-fiber foods
-32,32,Chronic cholestasis,Include healthy fats
-33,33,Chronic cholestasis,Limit alcohol consumption
-34,34,Chronic cholestasis,Stay hydrated
-35,35,Chronic cholestasis,Consume antioxidant-rich foods
-36,36,Chronic cholestasis,Include omega-3 fatty acids
-37,37,Chronic cholestasis,Include lean proteins
-38,38,Chronic cholestasis,Limit processed foods
-39,39,Chronic cholestasis,Avoid fried foods
-40,40,Drug Reaction,Discontinue offending medication
-41,41,Drug Reaction,Stay hydrated
-42,42,Drug Reaction,Include anti-inflammatory foods
-43,43,Drug Reaction,Consume antioxidants
-44,44,Drug Reaction,Avoid trigger foods
-45,45,Drug Reaction,Include omega-3 fatty acids
-46,46,Drug Reaction,Limit caffeine and alcohol
-47,47,Drug Reaction,Stay hydrated
-48,48,Drug Reaction,Eat a balanced diet
-49,49,Drug Reaction,Consult a healthcare professional
-50,50,Peptic ulcer disease,"Consume smaller, more frequent meals"
-51,51,Peptic ulcer disease,"Avoid trigger foods (spicy, acidic)"
-52,52,Peptic ulcer disease,Include high-fiber foods
-53,53,Peptic ulcer disease,Limit caffeine and alcohol
-54,54,Peptic ulcer disease,Stay hydrated
-55,55,Peptic ulcer disease,Consume probiotics
-56,56,Peptic ulcer disease,Include lean proteins
-57,57,Peptic ulcer disease,Include antioxidant-rich foods
-58,58,Peptic ulcer disease,Limit processed foods
-59,59,Peptic ulcer disease,Avoid smoking and alcohol
-60,60,AIDS,Follow a balanced and nutritious diet
-61,61,AIDS,Include lean proteins
-62,62,AIDS,Consume nutrient-rich foods
-63,63,AIDS,Stay hydrated
-64,64,AIDS,Include healthy fats
-65,65,AIDS,Avoid raw or undercooked foods
-66,66,AIDS,Limit sugary foods and beverages
-67,67,AIDS,Consume immune-boosting foods
-68,68,AIDS,Take prescribed supplements
-69,69,AIDS,Consult a healthcare professional
-70,70,Diabetes,Monitor carbohydrate intake
-71,71,Diabetes,Eat balanced meals
-72,72,Diabetes,Include lean proteins
-73,73,Diabetes,Consume high-fiber foods
-74,74,Diabetes,Stay hydrated
-75,75,Diabetes,Limit sugary foods and beverages
-76,76,Diabetes,Include healthy fats
-77,77,Diabetes,Monitor blood sugar levels
-78,78,Diabetes,Consult a registered dietitian
-79,79,Diabetes,Take prescribed medications as directed
-80,80,Gastroenteritis,Stay hydrated
-81,81,Gastroenteritis,Consume clear fluids
-82,82,Gastroenteritis,"Follow the BRAT diet (bananas, rice, applesauce, toast)"
-83,83,Gastroenteritis,Include bland foods
-84,84,Gastroenteritis,Avoid fatty and greasy foods
-85,85,Gastroenteritis,Limit caffeine and alcohol
-86,86,Gastroenteritis,Avoid spicy foods
-87,87,Gastroenteritis,Consult a healthcare professional
-88,88,Gastroenteritis,Gradually reintroduce solid foods
-89,89,Gastroenteritis,Avoid dairy products
-90,90,Bronchial Asthma,Include anti-inflammatory foods
-91,91,Bronchial Asthma,Consume omega-3 fatty acids
-92,92,Bronchial Asthma,Limit sodium intake
-93,93,Bronchial Asthma,Stay hydrated
-94,94,Bronchial Asthma,Include antioxidant-rich foods
-95,95,Bronchial Asthma,Avoid sulfite-containing foods
-96,96,Bronchial Asthma,Limit processed foods
-97,97,Bronchial Asthma,Consume magnesium-rich foods
-98,98,Bronchial Asthma,Consult a healthcare professional
-99,99,Bronchial Asthma,Avoid trigger foods
-100,100,Hypertension,Follow the DASH diet (Dietary Approaches to Stop Hypertension)
-101,101,Hypertension,Limit sodium intake
-102,102,Hypertension,Include potassium-rich foods
-103,103,Hypertension,Stay hydrated
-104,104,Hypertension,Consume calcium-rich foods
-105,105,Hypertension,Limit alcohol consumption
-106,106,Hypertension,Include magnesium-rich foods
-107,107,Hypertension,Consume omega-3 fatty acids
-108,108,Hypertension,Limit processed foods
-109,109,Hypertension,Consult a healthcare professional
-110,110,Migraine,Identify and avoid trigger foods
-111,111,Migraine,Stay hydrated
-112,112,Migraine,Include magnesium-rich foods
-113,113,Migraine,Consume omega-3 fatty acids
-114,114,Migraine,Limit caffeine and alcohol
-115,115,Migraine,Consume riboflavin-rich foods
-116,116,Migraine,Limit processed foods
-117,117,Migraine,Maintain regular meal times
-118,118,Migraine,Consult a healthcare professional
-119,119,Migraine,Manage stress
-120,120,Cervical spondylosis,Include anti-inflammatory foods
-121,121,Cervical spondylosis,Consume omega-3 fatty acids
-122,122,Cervical spondylosis,Include vitamin D-rich foods
-123,123,Cervical spondylosis,Stay hydrated
-124,124,Cervical spondylosis,Consume antioxidant-rich foods
-125,125,Cervical spondylosis,Limit processed foods
-126,126,Cervical spondylosis,Include lean proteins
-127,127,Cervical spondylosis,Practice good posture
-128,128,Cervical spondylosis,Consult a healthcare professional
-129,129,Cervical spondylosis,Engage in regular exercise
-130,130,Paralysis (brain hemorrhage),Follow a balanced and nutritious diet
-131,131,Paralysis (brain hemorrhage),Include lean proteins
-132,132,Paralysis (brain hemorrhage),Consume nutrient-rich foods
-133,133,Paralysis (brain hemorrhage),Stay hydrated
-134,134,Paralysis (brain hemorrhage),Include healthy fats
-135,135,Paralysis (brain hemorrhage),Limit sugary foods and beverages
-136,136,Paralysis (brain hemorrhage),Include antioxidants
-137,137,Paralysis (brain hemorrhage),Consume foods rich in vitamin K
-138,138,Paralysis (brain hemorrhage),Consult a healthcare professional
-139,139,Paralysis (brain hemorrhage),Manage stress
-140,140,Jaundice,Stay hydrated
-141,141,Jaundice,Consume nutrient-rich foods
-142,142,Jaundice,Include protein-rich foods
-143,143,Jaundice,Consume easily digestible foods
-144,144,Jaundice,Limit fatty foods
-145,145,Jaundice,Avoid alcohol and caffeine
-146,146,Jaundice,Include vitamin C-rich foods
-147,147,Jaundice,Consult a healthcare professional
-148,148,Jaundice,Rest and conserve energy
-149,149,Jaundice,Gradually resume normal diet
-150,150,Malaria,Stay hydrated
-151,151,Malaria,Consume nutrient-rich foods
-152,152,Malaria,Include protein-rich foods
-153,153,Malaria,Consume foods rich in antioxidants
-154,154,Malaria,Limit fatty and greasy foods
-155,155,Malaria,Avoid alcohol and caffeine
-156,156,Malaria,Include vitamin C-rich foods
-157,157,Malaria,Consult a healthcare professional
-158,158,Malaria,Rest and conserve energy
-159,159,Malaria,Gradually resume normal diet
-160,160,Chicken pox,Stay hydrated
-161,161,Chicken pox,Include easily digestible foods
-162,162,Chicken pox,Include vitamin C-rich foods
-163,163,Chicken pox,Consume protein-rich foods
-164,164,Chicken pox,Include zinc-rich foods
-165,165,Chicken pox,Avoid spicy and acidic foods
-166,166,Chicken pox,Consult a healthcare professional
-167,167,Chicken pox,Practice good hygiene
-168,168,Chicken pox,Rest and conserve energy
-169,169,Chicken pox,Gradually resume normal diet
-170,170,Dengue,Stay hydrated
-171,171,Dengue,Include nutrient-rich foods
-172,172,Dengue,Consume foods rich in vitamin C and antioxidants
-173,173,Dengue,Limit fatty and greasy foods
-174,174,Dengue,Avoid caffeine and alcohol
-175,175,Dengue,Include soft and easily digestible foods
-176,176,Dengue,Consult a healthcare professional
-177,177,Dengue,Rest and conserve energy
-178,178,Dengue,Gradually resume normal diet
-179,179,Dengue,Follow medical recommendations
-180,180,Typhoid,Consume easily digestible foods
-181,181,Typhoid,Stay hydrated
-182,182,Typhoid,Include nutrient-rich foods
-183,183,Typhoid,Consume foods rich in vitamin C and antioxidants
-184,184,Typhoid,Include protein-rich foods
-185,185,Typhoid,Avoid fatty and greasy foods
-186,186,Typhoid,Consult a healthcare professional
-187,187,Typhoid,Gradually resume normal diet
-188,188,Typhoid,Follow medical recommendations
-189,189,Typhoid,Avoid alcohol and caffeine
-190,190,hepatitis A,Stay hydrated
-191,191,hepatitis A,Consume nutrient-rich foods
-192,192,hepatitis A,Include protein-rich foods
-193,193,hepatitis A,Consume easily digestible foods
-194,194,hepatitis A,Limit fatty foods
-195,195,hepatitis A,Avoid alcohol and caffeine
-196,196,hepatitis A,Include vitamin C-rich foods
-197,197,hepatitis A,Consult a healthcare professional
-198,198,hepatitis A,Rest and conserve energy
-199,199,hepatitis A,Gradually resume normal diet
-200,200,Hepatitis B,Follow a balanced and nutritious diet
-201,201,Hepatitis B,Stay hydrated
-202,202,Hepatitis B,Include protein-rich foods
-203,203,Hepatitis B,Consume nutrient-rich foods
-204,204,Hepatitis B,Limit fatty foods
-205,205,Hepatitis B,Avoid alcohol and caffeine
-206,206,Hepatitis B,Include vitamin C-rich foods
-207,207,Hepatitis B,Consult a healthcare professional
-208,208,Hepatitis B,Rest and conserve energy
-209,209,Hepatitis B,Gradually resume normal diet
-210,210,Hepatitis C,Follow a balanced and nutritious diet
-211,211,Hepatitis C,Stay hydrated
-212,212,Hepatitis C,Include protein-rich foods
-213,213,Hepatitis C,Consume nutrient-rich foods
-214,214,Hepatitis C,Limit fatty foods
-215,215,Hepatitis C,Avoid alcohol and caffeine
-216,216,Hepatitis C,Include vitamin C-rich foods
-217,217,Hepatitis C,Consult a healthcare professional
-218,218,Hepatitis C,Rest and conserve energy
-219,219,Hepatitis C,Gradually resume normal diet
-220,220,Hepatitis D,Follow a balanced and nutritious diet
-221,221,Hepatitis D,Stay hydrated
-222,222,Hepatitis D,Include protein-rich foods
-223,223,Hepatitis D,Consume nutrient-rich foods
-224,224,Hepatitis D,Limit fatty foods
-225,225,Hepatitis D,Avoid alcohol and caffeine
-226,226,Hepatitis D,Include vitamin C-rich foods
-227,227,Hepatitis D,Consult a healthcare professional
-228,228,Hepatitis D,Rest and conserve energy
-229,229,Hepatitis D,Gradually resume normal diet
-230,230,Hepatitis E,Stay hydrated
-231,231,Hepatitis E,Consume nutrient-rich foods
-232,232,Hepatitis E,Include protein-rich foods
-233,233,Hepatitis E,Consume easily digestible foods
-234,234,Hepatitis E,Limit fatty foods
-235,235,Hepatitis E,Avoid alcohol and caffeine
-236,236,Hepatitis E,Include vitamin C-rich foods
-237,237,Hepatitis E,Consult a healthcare professional
-238,238,Hepatitis E,Rest and conserve energy
-239,239,Hepatitis E,Gradually resume normal diet
-240,240,Alcoholic hepatitis,Avoid alcohol consumption
-241,241,Alcoholic hepatitis,Follow a balanced and nutritious diet
-242,242,Alcoholic hepatitis,Stay hydrated
-243,243,Alcoholic hepatitis,Consume nutrient-rich foods
-244,244,Alcoholic hepatitis,Include protein-rich foods
-245,245,Alcoholic hepatitis,Limit fatty foods
-246,246,Alcoholic hepatitis,Include antioxidants
-247,247,Alcoholic hepatitis,Consult a healthcare professional
-248,248,Alcoholic hepatitis,Rest and conserve energy
-249,249,Alcoholic hepatitis,Gradually resume normal diet
-250,250,Tuberculosis,Consume a high-protein diet
-251,251,Tuberculosis,Include nutrient-rich foods
-252,252,Tuberculosis,Stay hydrated
-253,253,Tuberculosis,Consume foods rich in vitamins A and C
-254,254,Tuberculosis,Include zinc-rich foods
-255,255,Tuberculosis,Limit sugary foods and beverages
-256,256,Tuberculosis,Consult a healthcare professional
-257,257,Tuberculosis,Rest and conserve energy
-258,258,Tuberculosis,Gradually resume normal diet
-259,259,Tuberculosis,Follow medical recommendations
-260,260,Common Cold,Stay hydrated
-261,261,Common Cold,Include nutrient-rich foods
-262,262,Common Cold,Consume foods rich in vitamin C and antioxidants
-263,263,Common Cold,Include zinc-rich foods
-264,264,Common Cold,Limit sugary foods and beverages
-265,265,Common Cold,Consume chicken soup
-266,266,Common Cold,Consult a healthcare professional
-267,267,Common Cold,Rest and conserve energy
-268,268,Common Cold,Gradually resume normal diet
-269,269,Common Cold,Follow medical recommendations
-270,270,Pneumonia,Stay hydrated
-271,271,Pneumonia,Include nutrient-rich foods
-272,272,Pneumonia,Consume foods rich in vitamin C and antioxidants
-273,273,Pneumonia,Include zinc-rich foods
-274,274,Pneumonia,Limit sugary foods and beverages
-275,275,Pneumonia,Consume chicken soup
-276,276,Pneumonia,Consult a healthcare professional
-277,277,Pneumonia,Rest and conserve energy
-278,278,Pneumonia,Gradually resume normal diet
-279,279,Pneumonia,Follow medical recommendations
-280,280,Dimorphic hemmorhoids(piles),Consume high-fiber foods
-281,281,Dimorphic hemmorhoids(piles),Stay hydrated
-282,282,Dimorphic hemmorhoids(piles),Include nutrient-rich foods
-283,283,Dimorphic hemmorhoids(piles),Consume foods rich in flavonoids
-284,284,Dimorphic hemmorhoids(piles),Limit processed foods
-285,285,Dimorphic hemmorhoids(piles),Avoid spicy and greasy foods
-286,286,Dimorphic hemmorhoids(piles),Consult a healthcare professional
-287,287,Dimorphic hemmorhoids(piles),Practice good hygiene
-288,288,Dimorphic hemmorhoids(piles),Gradually resume normal diet
-289,289,Dimorphic hemmorhoids(piles),Follow medical recommendations
-290,290,Heart attack,Follow a heart-healthy diet
-291,291,Heart attack,Limit sodium intake
-292,292,Heart attack,Include fiber-rich foods
-293,293,Heart attack,Consume healthy fats
-294,294,Heart attack,Include lean proteins
-295,295,Heart attack,Limit sugary foods and beverages
-296,296,Heart attack,Stay hydrated
-297,297,Heart attack,Consult a healthcare professional
-298,298,Heart attack,Follow medical recommendations
-299,299,Heart attack,Engage in regular exercise
-300,300,Varicose veins,Consume a high-fiber diet
-301,301,Varicose veins,Stay hydrated
-302,302,Varicose veins,Include nutrient-rich foods
-303,303,Varicose veins,Consume foods rich in antioxidants
-304,304,Varicose veins,Limit sodium intake
-305,305,Varicose veins,Include flavonoid-rich foods
-306,306,Varicose veins,Avoid standing or sitting for long periods
-307,307,Varicose veins,Consult a healthcare professional
-308,308,Varicose veins,Follow medical recommendations
-309,309,Varicose veins,Engage in regular exercise
-310,310,Hypothyroidism,Include iodine-rich foods
-311,311,Hypothyroidism,Consume selenium-rich foods
-312,312,Hypothyroidism,Stay hydrated
-313,313,Hypothyroidism,Include nutrient-rich foods
-314,314,Hypothyroidism,Limit processed foods
-315,315,Hypothyroidism,Consume foods rich in vitamins B and D
-316,316,Hypothyroidism,Consult a healthcare professional
-317,317,Hypothyroidism,Follow medical recommendations
-318,318,Hypothyroidism,Maintain a stable weight
-319,319,Hypothyroidism,Engage in regular exercise
-320,320,Hyperthyroidism,Limit iodine intake
-321,321,Hyperthyroidism,Consume cruciferous vegetables in moderation
-322,322,Hyperthyroidism,Stay hydrated
-323,323,Hyperthyroidism,Include nutrient-rich foods
-324,324,Hyperthyroidism,Limit caffeine and alcohol
-325,325,Hyperthyroidism,Include omega-3 fatty acids
-326,326,Hyperthyroidism,Consult a healthcare professional
-327,327,Hyperthyroidism,Follow medical recommendations
-328,328,Hyperthyroidism,Maintain a stable weight
-329,329,Hyperthyroidism,Engage in regular exercise
-330,330,Hypoglycemia,Consume complex carbohydrates
-331,331,Hypoglycemia,Include protein-rich foods
-332,332,Hypoglycemia,Stay hydrated
-333,333,Hypoglycemia,Limit sugary foods and beverages
-334,334,Hypoglycemia,Consume regular meals and snacks
-335,335,Hypoglycemia,Consult a healthcare professional
-336,336,Hypoglycemia,Monitor blood sugar levels
-337,337,Hypoglycemia,Follow medical recommendations
-338,338,Hypoglycemia,Engage in regular physical activity
-339,339,Hypoglycemia,Limit alcohol intake
-340,340,Osteoarthristis,Consume anti-inflammatory foods
-341,341,Osteoarthristis,Include omega-3 fatty acids
-342,342,Osteoarthristis,Consume antioxidant-rich foods
-343,343,Osteoarthristis,Stay hydrated
-344,344,Osteoarthristis,Limit processed foods
-345,345,Osteoarthristis,Include vitamin K-rich foods
-346,346,Osteoarthristis,Consult a healthcare professional
-347,347,Osteoarthristis,Follow medical recommendations
-348,348,Osteoarthristis,Engage in low-impact exercise
-349,349,Osteoarthristis,Maintain a healthy weight
-350,350,Arthritis,Consume anti-inflammatory foods
-351,351,Arthritis,Include omega-3 fatty acids
-352,352,Arthritis,Consume antioxidant-rich foods
-353,353,Arthritis,Stay hydrated
-354,354,Arthritis,Limit processed foods
-355,355,Arthritis,Include vitamin K-rich foods
-356,356,Arthritis,Consult a healthcare professional
-357,357,Arthritis,Follow medical recommendations
-358,358,Arthritis,Engage in low-impact exercise
-359,359,Arthritis,Maintain a healthy weight
-360,360,(vertigo) Paroymsal  Positional Vertigo,"Avoid trigger foods (caffeine, alcohol)"
-361,361,(vertigo) Paroymsal  Positional Vertigo,Limit sodium intake
-362,362,(vertigo) Paroymsal  Positional Vertigo,Stay hydrated
-363,363,(vertigo) Paroymsal  Positional Vertigo,Consume ginger and ginkgo biloba
-364,364,(vertigo) Paroymsal  Positional Vertigo,Limit artificial sweeteners
-365,365,(vertigo) Paroymsal  Positional Vertigo,Consult a healthcare professional
-366,366,(vertigo) Paroymsal  Positional Vertigo,Avoid sudden head movements
-367,367,(vertigo) Paroymsal  Positional Vertigo,Follow medical recommendations
-368,368,(vertigo) Paroymsal  Positional Vertigo,Manage stress
-369,369,(vertigo) Paroymsal  Positional Vertigo,Limit caffeine and stimulants
-370,370,Acne,Consume a balanced diet
-371,371,Acne,Limit dairy and high-glycemic foods
-372,372,Acne,Include antioxidants
-373,373,Acne,Stay hydrated
-374,374,Acne,Limit processed foods
-375,375,Acne,Include zinc-rich foods
-376,376,Acne,Consult a skincare professional
-377,377,Acne,Practice good skincare hygiene
-378,378,Acne,Limit sugary foods and beverages
-379,379,Acne,Follow medical recommendations
-380,380,Urinary tract infection,Stay hydrated
-381,381,Urinary tract infection,Consume cranberry products
-382,382,Urinary tract infection,Include vitamin C-rich foods
-383,383,Urinary tract infection,Limit caffeine and alcohol
-384,384,Urinary tract infection,Consume probiotics
-385,385,Urinary tract infection,Avoid spicy and acidic foods
-386,386,Urinary tract infection,Consult a healthcare professional
-387,387,Urinary tract infection,Follow medical recommendations
-388,388,Urinary tract infection,Maintain good hygiene
-389,389,Urinary tract infection,Limit sugary foods and beverages
-390,390,Psoriasis,Consume anti-inflammatory foods
-391,391,Psoriasis,Include omega-3 fatty acids
-392,392,Psoriasis,Include vitamin D analogues
-393,393,Psoriasis,Limit alcohol consumption
-394,394,Psoriasis,Stay hydrated
-395,395,Psoriasis,Consult a healthcare professional
-396,396,Psoriasis,Limit processed foods
-397,397,Psoriasis,Follow medical recommendations
-398,398,Psoriasis,Manage stress
-399,399,Psoriasis,Consider phototherapy under medical guidance
-400,400,Impetigo,Maintain good hygiene
-401,401,Impetigo,Stay hydrated
-402,402,Impetigo,Consume nutrient-rich foods
-403,403,Impetigo,Limit sugary foods and beverages
-404,404,Impetigo,Include foods rich in vitamin C
-405,405,Impetigo,Consult a healthcare professional
-406,406,Impetigo,Follow medical recommendations
-407,407,Impetigo,Avoid scratching
-408,408,Impetigo,Take prescribed antibiotics
-409,409,Impetigo,Practice wound care
+0,0,Fungal infection,Consume 2-3 cloves of fresh garlic daily
+1,1,Fungal infection,Include 1 cup of plain Greek yogurt with live cultures
+2,2,Fungal infection,Add 1-2 tablespoons of coconut oil to your diet
+3,3,Fungal infection,Add 1 teaspoon of turmeric to warm water daily
+4,4,Fungal infection,Consume 1-inch piece of fresh ginger daily
+5,5,Fungal infection,Drink 8-10 glasses (2-2.5 liters) of water daily
+6,6,Fungal infection,Drink 2-3 cups of green tea daily
+7,7,Fungal infection,Eat 3 oz of oysters or 1/4 cup pumpkin seeds for zinc
+8,8,Fungal infection,Add 1 teaspoon of turmeric to soups or smoothies
+9,9,Fungal infection,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+10,10,Allergy,Avoid specific trigger foods (eggs, nuts, shellfish, dairy)
+11,11,Allergy,Eat 3 oz of salmon twice weekly for omega-3 fatty acids
+12,12,Allergy,Include 1/4 cup of walnuts daily for omega-3 fatty acids
+13,13,Allergy,Drink 8-10 glasses (2-2.5 liters) of water daily
+14,14,Allergy,Eat 1 orange, 1-2 kiwi, or 1 cup strawberries daily for vitamin C
+15,15,Allergy,Include 1/2 cup of onions daily for quercetin
+16,16,Allergy,Consume 1 tablespoon of local honey daily
+17,17,Allergy,Limit packaged snacks, frozen meals, and fast food
+18,18,Allergy,Add 1-inch piece of fresh ginger to tea or meals daily
+19,19,Allergy,Drink 2-3 cups of green tea daily for EGCG
+20,20,GERD,Eat 5-6 smaller meals (about 1 cup each) throughout the day
+21,21,GERD,Avoid hot peppers, fried foods, and high-fat meats
+22,22,GERD,Eat 1 cup of plain oatmeal daily for fiber
+23,23,GERD,Limit coffee to 1 cup daily and alcohol to 1 drink or less
+24,24,GERD,Take 20-30 minutes to eat meals, chewing thoroughly
+25,25,GERD,Don't eat within 3 hours of bedtime
+26,26,GERD,Eat 1-2 ripe bananas or 1 cup of melon daily
+27,27,GERD,Include 3-4 oz of skinless chicken, turkey, or fish
+28,28,GERD,Drink 8-10 glasses (2-2.5 liters) of water daily
+29,29,GERD,Drink 1 cup of almond milk as an alkaline beverage
+30,30,Chronic cholestasis,Consume no more than 40-50g of fat daily
+31,31,Chronic cholestasis,Eat 1/2 cup of cooked brown rice daily
+32,32,Chronic cholestasis,Include 1/4 avocado daily for healthy fats
+33,33,Chronic cholestasis,Avoid alcohol completely
+34,34,Chronic cholestasis,Drink 8-10 glasses (2-2.5 liters) of water daily
+35,35,Chronic cholestasis,Eat 1/2 cup of steamed broccoli daily
+36,36,Chronic cholestasis,Include 3 oz of salmon twice weekly for omega-3
+37,37,Chronic cholestasis,Eat 1/2 cup of cooked beets for liver support
+38,38,Chronic cholestasis,Limit packaged snacks, frozen meals, and fast food
+39,39,Chronic cholestasis,Avoid deep-fried foods, fatty cuts of meat, and full-fat dairy
+40,40,Drug Reaction,Discontinue offending medication (with doctor's guidance)
+41,41,Drug Reaction,Drink 8-10 glasses (2-2.5 liters) of water daily
+42,42,Drug Reaction,Eat 3 oz of salmon twice weekly for omega-3
+43,43,Drug Reaction,Consume 1/2 cup blueberries daily for antioxidants
+44,44,Drug Reaction,Avoid foods you're sensitive to (dairy, gluten, nuts)
+45,45,Drug Reaction,Include 1/4 cup walnuts or 1 tablespoon flaxseeds daily
+46,46,Drug Reaction,Limit coffee to 1 cup daily and alcohol to 1 drink or less
+47,47,Drug Reaction,Drink 8-10 glasses (2-2.5 liters) of water daily
+48,48,Drug Reaction,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+49,49,Drug Reaction,Follow your doctor's specific dietary recommendations
+50,50,Peptic ulcer disease,Eat 5-6 smaller meals (about 1 cup each) throughout the day
+51,51,Peptic ulcer disease,Avoid hot peppers, tomato products, and citrus fruits
+52,52,Peptic ulcer disease,Eat 1 cup of plain oatmeal daily for fiber
+53,53,Peptic ulcer disease,Limit coffee to 1 cup daily and avoid alcohol completely
+54,54,Peptic ulcer disease,Drink 8-10 glasses (2-2.5 liters) of water daily
+55,55,Peptic ulcer disease,Include 1 cup of plain yogurt with live cultures daily
+56,56,Peptic ulcer disease,Eat 3-4 oz of skinless chicken, turkey, or fish
+57,57,Peptic ulcer disease,Drink 2-3 cups of ginger tea daily
+58,58,Peptic ulcer disease,Limit packaged snacks, frozen meals, and fast food
+59,59,Peptic ulcer disease,Avoid smoking and alcohol completely
+60,60,AIDS,Consume 2000-2500 calories daily with guidance from a dietitian
+61,61,AIDS,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+62,62,AIDS,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+63,63,AIDS,Drink 8-10 glasses (2-2.5 liters) of water daily
+64,64,AIDS,Include 1/4 avocado or 1/4 cup nuts daily for healthy fats
+65,65,AIDS,Cook all animal products thoroughly and wash produce well
+66,66,AIDS,Limit candy, soda, and desserts to occasional treats
+67,67,AIDS,Eat 1 orange, 1-2 kiwi, or 1 cup strawberries daily for vitamin C
+68,68,AIDS,Take nutritional supplements as prescribed by your doctor
+69,69,AIDS,Follow your healthcare team's specific dietary recommendations
+70,70,Diabetes,Count carbohydrates (typically 45-60g per meal) with guidance
+71,71,Diabetes,Eat 1/2 cup dry steel-cut oats daily for low glycemic carbs
+72,72,Diabetes,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+73,73,Diabetes,Eat 2 cups of raw spinach or kale daily for magnesium
+74,74,Diabetes,Drink 8-10 glasses (2-2.5 liters) of water daily
+75,75,Diabetes,Eat 1/2 cup of berries daily for low glycemic fruit
+76,76,Diabetes,Include 2 tablespoons of chia seeds daily for fiber
+77,77,Diabetes,Add 1/2 teaspoon of cinnamon to food daily
+78,78,Diabetes,Work with a registered dietitian for personalized meal planning
+79,79,Diabetes,Take medications as prescribed and at recommended times
+80,80,Gastroenteritis,Drink 8-10 glasses (2-2.5 liters) of water daily
+81,81,Gastroenteritis,Sip clear broths, weak tea, or water with electrolytes
+82,82,Gastroenteritis,Eat 1 ripe banana, 1/2 cup white rice, or 1/2 cup applesauce
+83,83,Gastroenteritis,Include plain crackers, boiled potatoes, or plain noodles
+84,84,Gastroenteritis,Avoid fried chicken, french fries, and fatty meats
+85,85,Gastroenteritis,Limit coffee to 1 cup daily and avoid alcohol completely
+86,86,Gastroenteritis,Avoid hot peppers, curry, and heavily seasoned foods
+87,87,Gastroenteritis,Drink 1 cup of coconut water for natural electrolytes
+88,88,Gastroenteritis,Start with small portions and increase as tolerated
+89,89,Gastroenteritis,Avoid milk, cheese, and ice cream until recovery
+90,90,Bronchial Asthma,Include 1 tablespoon ground flaxseeds daily for omega-3
+91,91,Bronchial Asthma,Eat 3 oz of salmon or mackerel twice weekly
+92,92,Bronchial Asthma,Reduce salt to less than 2,300mg daily (about 1 teaspoon)
+93,93,Bronchial Asthma,Drink 8-10 glasses (2-2.5 liters) of water daily
+94,94,Bronchial Asthma,Eat 1 medium sweet potato daily for vitamin A
+95,95,Bronchial Asthma,Avoid dried fruits with sulfites, wine, and processed potatoes
+96,96,Bronchial Asthma,Limit packaged snacks, frozen meals, and fast food
+97,97,Bronchial Asthma,Include 1/4 cup pumpkin seeds daily for magnesium
+98,98,Bronchial Asthma,Add 1-inch piece of fresh ginger to meals daily
+99,99,Bronchial Asthma,Add 1 teaspoon turmeric with a pinch of black pepper daily
+100,100,Hypertension,Follow DASH diet: 4-5 servings each of fruits and vegetables daily
+101,101,Hypertension,Reduce salt to less than 2,300mg daily (about 1 teaspoon)
+102,102,Hypertension,Eat 1 banana or 2 cups of raw spinach daily for potassium
+103,103,Hypertension,Drink 8-10 glasses (2-2.5 liters) of water daily
+104,104,Hypertension,Include 1 cup low-fat yogurt or 1 cup low-fat milk daily
+105,105,Hypertension,Limit alcohol to 1 drink daily for women, 2 for men
+106,106,Hypertension,Eat 1 cup of cooked beets daily for nitrates
+107,107,Hypertension,Include 1 cup of berries daily for flavonoids
+108,108,Hypertension,Consume 1-2 cloves of garlic daily for allicin
+109,109,Hypertension,Follow your doctor's specific dietary recommendations
+110,110,Migraine,Keep a food diary to identify personal trigger foods
+111,111,Migraine,Drink 8-10 glasses (2-2.5 liters) of water daily
+112,112,Migraine,Include 1/4 cup pumpkin seeds daily for magnesium
+113,113,Migraine,Eat 3 oz of salmon or mackerel twice weekly
+114,114,Migraine,Limit coffee to 1 cup daily and alcohol to 1 drink or less
+115,115,Migraine,Eat 2 whole eggs daily for riboflavin
+116,116,Migraine,Eat 1/4 cup of almonds daily for magnesium
+117,117,Migraine,Eat at the same times each day, don't skip meals
+118,118,Migraine,Include 1 cup of watermelon daily for hydration
+119,119,Migraine,Add 1-inch piece of fresh ginger to tea or meals daily
+120,120,Cervical spondylosis,Eat 3 oz of salmon twice weekly for omega-3 and vitamin D
+121,121,Cervical spondylosis,Include 2 tablespoons of chia seeds daily for omega-3
+122,122,Cervical spondylosis,Eat 2 cups of raw kale daily for calcium and vitamin K
+123,123,Cervical spondylosis,Drink 8-10 glasses (2-2.5 liters) of water daily
+124,124,Cervical spondylosis,Include 1/4 cup of almonds daily for calcium and vitamin E
+125,125,Cervical spondylosis,Add 1 teaspoon turmeric with a pinch of black pepper daily
+126,126,Cervical spondylosis,Eat 1 cup of pineapple daily for bromelain
+127,127,Cervical spondylosis,Maintain proper posture while eating and throughout the day
+128,128,Cervical spondylosis,Include 1 cup of cherries daily for anthocyanins
+129,129,Cervical spondylosis,Perform doctor-recommended neck exercises regularly
+130,130,Paralysis (brain hemorrhage),Consume 2000-2500 calories daily with guidance from a dietitian
+131,131,Paralysis (brain hemorrhage),Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+132,132,Paralysis (brain hemorrhage),Eat 2 cups of colorful vegetables and 1-2 fruits daily
+133,133,Paralysis (brain hemorrhage),Drink 8-10 glasses (2-2.5 liters) of water daily
+134,134,Paralysis (brain hemorrhage),Include 1/4 avocado or 1/4 cup nuts daily for healthy fats
+135,135,Paralysis (brain hemorrhage),Limit candy, soda, and desserts to occasional treats
+136,136,Paralysis (brain hemorrhage),Eat 1/2 cup blueberries daily for antioxidants
+137,137,Paralysis (brain hemorrhage),Include leafy greens, broccoli, and Brussels sprouts for vitamin K
+138,138,Paralysis (brain hemorrhage),Follow your healthcare team's specific dietary recommendations
+139,139,Paralysis (brain hemorrhage),Practice stress-reduction techniques like meditation
+140,140,Jaundice,Drink 8-10 glasses (2-2.5 liters) of water daily
+141,141,Jaundice,Eat 1 cup of raw carrots daily for beta-carotene
+142,142,Jaundice,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+143,143,Jaundice,Eat plain rice, toast, crackers, and baked potatoes
+144,144,Jaundice,Avoid fried chicken, french fries, and fatty meats
+145,145,Jaundice,Avoid coffee, tea, and all alcoholic beverages
+146,146,Jaundice,Drink lemon water with 1/2 lemon daily
+147,147,Jaundice,Eat 1/2 cup of cooked beets daily for liver support
+148,148,Jaundice,Get adequate rest and avoid strenuous activities
+149,149,Jaundice,Eat 1 cup of papaya daily for digestive enzymes
+150,150,Malaria,Drink 8-10 glasses (2-2.5 liters) of water daily
+151,151,Malaria,Drink 1/4 cup of papaya leaf juice daily for platelet support
+152,152,Malaria,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+153,153,Malaria,Eat 1-2 oranges daily for vitamin C
+154,154,Malaria,Avoid fried chicken, french fries, and fatty meats
+155,155,Malaria,Avoid coffee, tea, and all alcoholic beverages
+156,156,Malaria,Drink 2-3 cups of coconut water daily for electrolytes
+157,157,Malaria,Drink 2-3 cups of ginger tea daily for fever and nausea
+158,158,Malaria,Get adequate rest and avoid strenuous activities
+159,159,Malaria,Drink 1 cup of pomegranate juice daily for iron
+160,160,Chicken pox,Drink 8-10 glasses (2-2.5 liters) of water daily
+161,161,Chicken pox,Eat 1-2 bowls of chicken soup daily for hydration and nutrients
+162,162,Chicken pox,Eat 1-2 oranges daily for vitamin C
+163,163,Chicken pox,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+164,164,Chicken pox,Include 3 oz of oysters or 1/4 cup pumpkin seeds for zinc
+165,165,Chicken pox,Avoid hot peppers, citrus fruits, and tomato products
+166,166,Chicken pox,Eat 1/2 cup of mashed potatoes when mouth sores are present
+167,167,Chicken pox,Wash hands frequently and avoid sharing utensils
+168,168,Chicken pox,Get adequate rest and avoid strenuous activities
+169,169,Chicken pox,Eat 1 cup of watermelon daily for hydration
+170,170,Dengue,Drink 8-10 glasses (2-2.5 liters) of water daily
+171,171,Dengue,Drink 1/4 cup of papaya leaf juice daily for platelet support
+172,172,Dengue,Eat 1-2 kiwi fruits daily for vitamin C
+173,173,Dengue,Avoid fried chicken, french fries, and fatty meats
+174,174,Dengue,Avoid coffee, tea, and all alcoholic beverages
+175,175,Dengue,Drink 2-3 cups of coconut water daily for electrolytes
+176,176,Dengue,Eat 1 pomegranate or drink 1 cup of juice daily for iron
+177,177,Dengue,Get adequate rest and avoid strenuous activities
+178,178,Dengue,Drink 1 cup of fresh orange juice daily for vitamin C
+179,179,Dengue,Eat 1 bowl of spinach soup daily for iron
+180,180,Typhoid,Eat plain rice, toast, crackers, and baked potatoes
+181,181,Typhoid,Drink 8-10 glasses (2-2.5 liters) of water daily
+182,182,Typhoid,Eat 1/2 cup of boiled potatoes daily for easy digestion
+183,183,Typhoid,Eat 1-2 ripe bananas daily for easy digestion
+184,184,Typhoid,Include 3-4 oz of skinless chicken, turkey, fish, or plant proteins
+185,185,Typhoid,Avoid fried chicken, french fries, and fatty meats
+186,186,Typhoid,Eat 1 bowl of rice porridge (congee) daily
+187,187,Typhoid,Drink 2-3 cups of coconut water daily for electrolytes
+188,188,Typhoid,Take antibiotics exactly as prescribed
+189,189,Typhoid,Avoid coffee, tea, and all alcoholic beverages
+190,190,hepatitis A,Drink 8-10 glasses (2-2.5 liters) of water daily
+191,191,hepatitis A,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+192,192,hepatitis A,Eat 4 oz of steamed white fish daily for protein
+193,193,hepatitis A,Eat 1 cup of boiled sweet potatoes daily
+194,194,hepatitis A,Avoid fried chicken, french fries, and fatty meats
+195,195,hepatitis A,Avoid coffee, tea, and all alcoholic beverages
+196,196,hepatitis A,Eat 1-2 oranges daily for vitamin C
+197,197,hepatitis A,Eat 1 cup of cooked oatmeal daily for fiber
+198,198,hepatitis A,Get adequate rest and avoid strenuous activities
+199,199,hepatitis A,Include 1 cup of Greek yogurt daily for protein
+200,200,Hepatitis B,Consume 2000-2500 calories daily with guidance from a dietitian
+201,201,Hepatitis B,Drink 8-10 glasses (2-2.5 liters) of water daily
+202,202,Hepatitis B,Eat 4 oz of steamed chicken breast daily for protein
+203,203,Hepatitis B,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+204,204,Hepatitis B,Avoid fried chicken, french fries, and fatty meats
+205,205,Hepatitis B,Avoid coffee, tea, and all alcoholic beverages
+206,206,Hepatitis B,Eat 1-2 oranges daily for vitamin C
+207,207,Hepatitis B,Include 1/2 cup cooked quinoa daily for protein and fiber
+208,208,Hepatitis B,Get adequate rest and avoid strenuous activities
+209,209,Hepatitis B,Include 1/2 avocado daily for healthy fats
+210,210,Hepatitis C,Consume 2000-2500 calories daily with guidance from a dietitian
+211,211,Hepatitis C,Drink 8-10 glasses (2-2.5 liters) of water daily
+212,212,Hepatitis C,Eat 4 oz of wild salmon daily for protein and omega-3
+213,213,Hepatitis C,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+214,214,Hepatitis C,Avoid fried chicken, french fries, and fatty meats
+215,215,Hepatitis C,Avoid coffee, tea, and all alcoholic beverages
+216,216,Hepatitis C,Eat 1-2 oranges daily for vitamin C
+217,217,Hepatitis C,Include 1/2 cup of brown rice daily for fiber
+218,218,Hepatitis C,Get adequate rest and avoid strenuous activities
+219,219,Hepatitis C,Eat 1 cup of blueberries daily for antioxidants
+220,220,Hepatitis D,Consume 2000-2500 calories daily with guidance from a dietitian
+221,221,Hepatitis D,Drink 8-10 glasses (2-2.5 liters) of water daily
+222,222,Hepatitis D,Eat 4 oz of white fish daily for protein
+223,223,Hepatitis D,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+224,224,Hepatitis D,Avoid fried chicken, french fries, and fatty meats
+225,225,Hepatitis D,Avoid coffee, tea, and all alcoholic beverages
+226,226,Hepatitis D,Eat 1-2 oranges daily for vitamin C
+227,227,Hepatitis D,Include 1/2 cup of quinoa daily for protein and fiber
+228,228,Hepatitis D,Get adequate rest and avoid strenuous activities
+229,229,Hepatitis D,Eat 1 cup of steamed carrots daily for vitamin A
+230,230,Hepatitis E,Drink 8-10 glasses (2-2.5 liters) of water daily
+231,231,Hepatitis E,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+232,232,Hepatitis E,Eat 4 oz of poached chicken daily for protein
+233,233,Hepatitis E,Eat 1/2 cup of white rice daily for easy digestion
+234,234,Hepatitis E,Avoid fried chicken, french fries, and fatty meats
+235,235,Hepatitis E,Avoid coffee, tea, and all alcoholic beverages
+236,236,Hepatitis E,Eat 1-2 oranges daily for vitamin C
+237,237,Hepatitis E,Include 1 cup of steamed zucchini daily
+238,238,Hepatitis E,Get adequate rest and avoid strenuous activities
+239,239,Hepatitis E,Eat 1 medium banana daily for easy digestion
+240,240,Alcoholic hepatitis,Avoid all alcoholic beverages completely
+241,241,Alcoholic hepatitis,Consume 2000-2500 calories daily with guidance from a dietitian
+242,242,Alcoholic hepatitis,Drink 8-10 glasses (2-2.5 liters) of water daily
+243,243,Alcoholic hepatitis,Eat 2 cups of colorful vegetables and 1-2 fruits daily
+244,244,Alcoholic hepatitis,Eat 4 oz of tofu daily for protein
+245,245,Alcoholic hepatitis,Avoid fried chicken, french fries, and fatty meats
+246,246,Alcoholic hepatitis,Eat 1 cup of steamed broccoli daily for detoxification
+247,247,Alcoholic hepatitis,Include 1/2 cup of brown rice daily for fiber
+248,248,Alcoholic hepatitis,Get adequate rest and avoid strenuous activities
