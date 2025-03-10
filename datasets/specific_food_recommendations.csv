@@ -1,218 +1,218 @@
-Disease,Food_Recommendation,Quantity,Benefit
-Fungal infection,Fresh garlic,2-3 cloves daily,Contains allicin with antifungal properties
-Fungal infection,Greek yogurt with live cultures,1 cup daily,Provides probiotics to combat fungal overgrowth
-Fungal infection,Coconut oil,1-2 tablespoons daily,Contains caprylic acid with antifungal properties
-Fungal infection,Turmeric,1 teaspoon with warm water daily,Has curcumin with antifungal properties
-Fungal infection,Ginger,1-inch piece fresh daily,Contains gingerol with antifungal properties
-Allergy,Salmon,3oz serving twice weekly,Rich in omega-3 fatty acids that reduce inflammation
-Allergy,Walnuts,1/4 cup daily,Contains omega-3 fatty acids and antioxidants
-Allergy,Oranges,1 medium daily,High in vitamin C which supports immune function
-Allergy,Kiwi,1-2 fruits daily,Excellent source of vitamin C and antioxidants
-Allergy,Strawberries,1 cup daily,Rich in quercetin which has antihistamine effects
-Allergy,Onions,1/2 cup daily,High in quercetin which reduces allergic responses
-Allergy,Local honey,1 tablespoon daily,May help build tolerance to local pollen
-Allergy,Green tea,2-3 cups daily,Contains EGCG which has antihistamine properties
-GERD,Oatmeal (plain),1 cup,Low-acid and high-fiber food that absorbs stomach acid
-GERD,Ginger tea,2-3 cups daily,Reduces inflammation and soothes digestive tract
-GERD,Bananas (ripe),1-2 daily,Low-acid fruit that coats the esophagus
-GERD,Melons (honeydew/cantaloupe),1 cup,Alkaline fruit that neutralizes stomach acid
-GERD,Plain yogurt,1 cup,Contains probiotics that improve digestion
-GERD,Fennel,1/2 cup or as tea,Reduces acid reflux symptoms
-GERD,Almond milk,1 cup,Alkaline beverage that neutralizes stomach acid
-Chronic cholestasis,Brown rice,1/2 cup cooked,High in fiber and easy to digest
-Chronic cholestasis,Steamed lentils,1/2 cup,Plant-based protein that's gentle on the liver
-Chronic cholestasis,Steamed broccoli,1 cup,Contains compounds that support liver detoxification
-Chronic cholestasis,Lean chicken,3oz,Provides protein without excess fat
-Chronic cholestasis,Green tea,2-3 cups,Contains catechins that support liver function
-Chronic cholestasis,Avocado,1/4 fruit,Source of healthy fats that support bile production
-Chronic cholestasis,Beets,1/2 cup,Contains betaine which supports liver function
-Diabetes,Steel-cut oats,1/2 cup dry,Low glycemic index carbohydrate with fiber
-Diabetes,Quinoa,1/2 cup cooked,Complete protein with fiber that stabilizes blood sugar
-Diabetes,Spinach,2 cups raw,Rich in magnesium which improves insulin sensitivity
-Diabetes,Kale,2 cups raw,Low-carb vegetable rich in vitamins and minerals
-Diabetes,Greek yogurt (plain),1 cup,High protein dairy with probiotics and calcium
-Diabetes,Berries (blueberries/strawberries),1/2 cup,Low glycemic fruit with antioxidants
-Diabetes,Chia seeds,2 tablespoons,High in fiber and omega-3 fatty acids
-Diabetes,Cinnamon,1/2 teaspoon daily,May help lower blood sugar levels
-Gastroenteritis,Bananas,1 ripe banana,Easy to digest and replaces potassium
-Gastroenteritis,White rice,1/2 cup cooked,Binding food that firms up stools
-Gastroenteritis,Applesauce (unsweetened),1/2 cup,Contains pectin which helps firm stools
-Gastroenteritis,Toast (white bread),1-2 slices,Easy to digest carbohydrate
-Gastroenteritis,Bone broth,1-2 cups,Provides electrolytes and is easy to digest
-Gastroenteritis,Coconut water,1 cup,Natural source of electrolytes
-Bronchial Asthma,Flaxseeds,1 tablespoon ground,Rich in omega-3 fatty acids that reduce inflammation
-Bronchial Asthma,Fatty fish (salmon/mackerel),3oz twice weekly,Contains EPA and DHA which reduce airway inflammation
-Bronchial Asthma,Spinach,2 cups raw,Rich in magnesium which relaxes bronchial muscles
-Bronchial Asthma,Kale,2 cups raw,High in antioxidants that reduce inflammation
-Bronchial Asthma,Sweet potatoes,1 medium,Rich in vitamin A which supports lung tissue health
-Bronchial Asthma,Ginger,1-inch piece fresh,Contains gingerols that reduce airway inflammation
-Bronchial Asthma,Turmeric with black pepper,1 teaspoon with pinch of pepper,Curcumin reduces inflammation when absorbed with piperine
-Hypertension,Beets,1 cup cooked,Contains nitrates that lower blood pressure
-Hypertension,Spinach,2 cups raw,Rich in potassium and magnesium that regulate blood pressure
-Hypertension,Berries (all types),1 cup,Rich in flavonoids that improve blood vessel function
-Hypertension,Bananas,1 medium,High in potassium which counters sodium's effects
-Hypertension,Oatmeal,1 cup cooked,Contains beta-glucan fiber that lowers blood pressure
-Hypertension,Low-fat yogurt,1 cup,Good source of calcium which helps regulate blood pressure
-Hypertension,Pomegranate,1/2 cup juice or 1/2 fruit,Contains polyphenols that reduce blood pressure
-Hypertension,Garlic,1-2 cloves daily,Contains allicin which relaxes blood vessels
-Migraine,Spinach,2 cups raw,Rich in magnesium which may prevent migraines
-Migraine,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
-Migraine,Pumpkin seeds,1/4 cup,Excellent source of magnesium
-Migraine,Almonds,1/4 cup,Contains magnesium and healthy fats
-Migraine,Watermelon,1 cup,Provides hydration and electrolytes
-Migraine,Ginger,1-inch piece fresh or as tea,Reduces nausea and inflammation
-Migraine,Riboflavin-rich foods (eggs),2 whole eggs,Vitamin B2 may reduce migraine frequency
-Cervical spondylosis,Salmon,3oz twice weekly,Rich in omega-3 fatty acids and vitamin D
-Cervical spondylosis,Chia seeds,2 tablespoons,Contains omega-3 fatty acids and calcium
-Cervical spondylosis,Kale,2 cups raw,Rich in calcium and vitamin K for bone health
-Cervical spondylosis,Almonds,1/4 cup,Good source of calcium and vitamin E
-Cervical spondylosis,Turmeric with black pepper,1 teaspoon with pinch of pepper,Anti-inflammatory when consumed with black pepper
-Cervical spondylosis,Pineapple,1 cup,Contains bromelain which reduces inflammation
-Cervical spondylosis,Cherries,1 cup,Contains anthocyanins with anti-inflammatory properties
-Jaundice,Carrots,1 cup raw,Contains beta-carotene which supports liver function
-Jaundice,Beets,1/2 cup cooked,Supports liver detoxification
-Jaundice,Lemons,1/2 lemon in warm water,Stimulates liver enzymes and bile production
-Jaundice,Spinach,2 cups raw,Rich in chlorophyll which supports detoxification
-Jaundice,Barley water,2 cups daily,Helps flush toxins from the liver
-Jaundice,Tomatoes,1 cup,Contains lycopene which supports liver health
-Jaundice,Papaya,1 cup,Contains papain which aids digestion
-Malaria,Papaya leaves,1/4 cup juice daily,May help increase platelet count
-Malaria,Oranges,1-2 daily,Rich in vitamin C which boosts immunity
-Malaria,Coconut water,2-3 cups daily,Provides hydration and electrolytes
-Malaria,Ginger tea,2-3 cups daily,Reduces fever and nausea
-Malaria,Cinnamon tea,1-2 cups daily,Has antimicrobial properties
-Malaria,Lemon water,2-3 cups daily,Provides vitamin C and aids detoxification
-Malaria,Pomegranate juice,1 cup daily,Rich in iron and supports red blood cell production
-Chicken pox,Chicken soup,1-2 bowls daily,Provides hydration and nutrients
-Chicken pox,Mashed potatoes,1/2 cup,Easy to eat when mouth sores are present
-Chicken pox,Bananas,1-2 daily,Easy to digest and nutritious
-Chicken pox,Oatmeal,1 cup cooked,Contains zinc and fiber
-Chicken pox,Yogurt,1 cup,Cooling and soothing for fever
-Chicken pox,Carrot soup,1 bowl,Easy to digest and rich in vitamin A
-Chicken pox,Watermelon,1 cup,Provides hydration and vitamin C
-Dengue,Papaya leaves,1/4 cup juice daily,May help increase platelet count
-Dengue,Pomegranate,1 fruit or 1 cup juice,Rich in iron and antioxidants
-Dengue,Coconut water,2-3 cups daily,Natural source of electrolytes
-Dengue,Kiwi,1-2 fruits daily,High in vitamin C which supports immunity
-Dengue,Orange juice (fresh),1 cup daily,Rich in vitamin C and folate
-Dengue,Spinach soup,1 bowl daily,Rich in iron which supports blood production
-Dengue,Wheatgrass juice,1/4 cup daily,May help increase platelet count
-Typhoid,Boiled potatoes,1/2 cup,Easy to digest carbohydrate
-Typhoid,Rice porridge (congee),1 bowl,Gentle on the digestive system
-Typhoid,Bananas,1-2 ripe daily,Easy to digest and nutritious
-Typhoid,Apple (peeled and cooked),1 medium,Contains pectin which helps with diarrhea
-Typhoid,Vegetable broth,2 cups daily,Provides nutrients in easily digestible form
-Typhoid,Yogurt,1 cup,Provides probiotics to restore gut flora
-Typhoid,Coconut water,2-3 cups daily,Natural source of electrolytes
-Hepatitis,Steamed white fish,4oz,Lean protein that's easy to digest
-Hepatitis,Boiled sweet potatoes,1 cup,Easy to digest complex carbohydrate
-Hepatitis,Cooked oatmeal,1 cup,Provides fiber without taxing the liver
-Hepatitis,Greek yogurt,1 cup,Provides protein and probiotics
-Hepatitis,Banana smoothie (no added sugar),1 cup,Easy to digest nutrients
-Hepatitis,Steamed broccoli,1 cup,Contains compounds that support liver detoxification
-Hepatitis,Blueberries,1 cup,Rich in antioxidants that support liver health
-Tuberculosis,High-protein chicken soup,2 cups,Provides protein and hydration
-Tuberculosis,Eggs,2 whole daily,Complete protein source
-Tuberculosis,Milk,2 cups daily,Source of calcium and protein
-Tuberculosis,Sweet potatoes,1 cup,Rich in vitamin A which supports immunity
-Tuberculosis,Spinach,2 cups raw,Rich in iron which is often depleted in TB
-Tuberculosis,Salmon,3oz twice weekly,Contains vitamin D which is important for TB recovery
-Tuberculosis,Almonds,1/4 cup,Good source of vitamin E and healthy fats
-Common Cold,Chicken soup,2 cups,Anti-inflammatory and helps clear nasal passages
-Common Cold,Honey-lemon tea,3 cups daily,Soothes throat and provides vitamin C
-Common Cold,Ginger tea,2 cups daily,Reduces inflammation and fights viruses
-Common Cold,Oranges,2 medium,Rich in vitamin C which supports immunity
-Common Cold,Greek yogurt,1 cup,Contains probiotics which support immune function
-Common Cold,Garlic,1-2 cloves daily,Has antimicrobial properties
-Common Cold,Turmeric milk,1 cup before bed,Anti-inflammatory and supports immunity
-Pneumonia,Protein-rich soup,2 cups,Provides nutrition in easily digestible form
-Pneumonia,Eggs,2 whole daily,Complete protein source
-Pneumonia,Greek yogurt,1 cup,Provides protein and probiotics
-Pneumonia,Berries,1 cup,Rich in antioxidants that support recovery
-Pneumonia,Leafy greens,2 cups raw,Rich in vitamins and minerals
-Pneumonia,Garlic,1-2 cloves daily,Has antimicrobial properties
-Pneumonia,Ginger tea,2-3 cups daily,Reduces inflammation and supports immunity
-Heart attack,Salmon,4oz twice weekly,Rich in omega-3 fatty acids that reduce inflammation
-Heart attack,Oatmeal,1 cup,Contains beta-glucan which lowers cholesterol
-Heart attack,Almonds,1/4 cup,Contains heart-healthy monounsaturated fats
-Heart attack,Berries,1 cup,Rich in anthocyanins which improve heart health
-Heart attack,Leafy greens,2 cups raw,Rich in nitrates which improve blood vessel function
-Heart attack,Avocado,1/4 fruit,Contains monounsaturated fats that lower LDL
-Heart attack,Olive oil,2 tablespoons,Rich in polyphenols and monounsaturated fats
-Varicose veins,Blueberries,1 cup,Contains anthocyanins which strengthen blood vessels
-Varicose veins,Chia seeds,2 tablespoons,Rich in omega-3 fatty acids which reduce inflammation
-Varicose veins,Asparagus,1 cup,Natural diuretic that reduces swelling
-Varicose veins,Avocado,1/4 fruit,Contains vitamin E which improves circulation
-Varicose veins,Watermelon,1 cup,Natural diuretic that reduces swelling
-Varicose veins,Ginger,1-inch piece fresh,Improves circulation and reduces inflammation
-Varicose veins,Garlic,1-2 cloves daily,Improves circulation and reduces inflammation
-Hypothyroidism,Seaweed (nori/kelp),1 sheet or 1 tablespoon,Rich in iodine which is essential for thyroid function
-Hypothyroidism,Brazil nuts,2 nuts daily,Excellent source of selenium which supports thyroid
-Hypothyroidism,Eggs,2 whole daily,Contains iodine and selenium
-Hypothyroidism,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids and vitamin D
-Hypothyroidism,Pumpkin seeds,1/4 cup,Rich in zinc which supports thyroid function
-Hypothyroidism,Yogurt,1 cup,Contains iodine and probiotics
-Hypothyroidism,Chicken,3-4oz,Good source of protein and zinc
-Hyperthyroidism,Cruciferous vegetables (broccoli/cauliflower),1 cup,Contains goitrogens which may help slow thyroid
-Hyperthyroidism,Low-fat milk,1 cup,Good source of calcium which is often depleted
-Hyperthyroidism,Eggs,2 whole daily,Complete protein source
-Hyperthyroidism,Oatmeal,1 cup,Provides fiber and B vitamins
-Hyperthyroidism,Lean turkey,3-4oz,Good source of protein without excess iodine
-Hyperthyroidism,Apples,1 medium,Contains pectin which helps with diarrhea
-Hyperthyroidism,Brown rice,1/2 cup cooked,Complex carbohydrate that provides steady energy
-Hypoglycemia,Quinoa,1/2 cup cooked,Complex carbohydrate with protein
-Hypoglycemia,Almond butter,2 tablespoons,Contains protein and healthy fats
-Hypoglycemia,Greek yogurt,1 cup,High protein dairy with probiotics
-Hypoglycemia,Lentils,1/2 cup cooked,Plant-based protein with fiber
-Hypoglycemia,Avocado,1/4 fruit,Contains healthy fats that stabilize blood sugar
-Hypoglycemia,Chicken,3-4oz,Lean protein that doesn't raise blood sugar
-Hypoglycemia,Apples with nut butter,1 apple with 1 tbsp nut butter,Balanced snack with fiber, protein and fat
-Osteoarthritis,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
-Osteoarthritis,Tart cherries,1 cup or 1/4 cup juice,Contains anthocyanins that reduce inflammation
-Osteoarthritis,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces joint inflammation
-Osteoarthritis,Spinach,2 cups raw,Rich in antioxidants and vitamin K
-Osteoarthritis,Walnuts,1/4 cup,Contains omega-3 fatty acids and antioxidants
-Osteoarthritis,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
-Osteoarthritis,Pineapple,1 cup,Contains bromelain which reduces inflammation
-Arthritis,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
-Arthritis,Tart cherries,1 cup or 1/4 cup juice,Contains anthocyanins that reduce inflammation
-Arthritis,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces joint inflammation
-Arthritis,Ginger,1-inch piece fresh,Contains gingerols that reduce inflammation
-Arthritis,Walnuts,1/4 cup,Contains omega-3 fatty acids and antioxidants
-Arthritis,Spinach,2 cups raw,Rich in antioxidants and vitamin K
-Arthritis,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
-Vertigo,Low-sodium foods (fresh vegetables),2-3 cups daily,Reduces fluid retention that can worsen vertigo
-Vertigo,Ginger tea,2-3 cups daily,Reduces nausea and dizziness
-Vertigo,Almonds,1/4 cup,Contains vitamin E which improves circulation
-Vertigo,Watermelon,1 cup,Provides hydration and electrolytes
-Vertigo,Bananas,1-2 daily,Rich in potassium which helps regulate fluid balance
-Vertigo,Yogurt,1 cup,Contains probiotics which may help inner ear health
-Vertigo,Fatty fish (salmon),3oz twice weekly,Contains vitamin D which supports inner ear health
-Acne,Wild salmon,3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
-Acne,Avocados,1/4 fruit,Contains vitamin E which supports skin health
-Acne,Sweet potatoes,1 medium,Rich in vitamin A which regulates skin cell production
-Acne,Kale,2 cups raw,Rich in vitamins A and C which support skin health
-Acne,Green tea,2-3 cups daily,Contains EGCG which reduces sebum production
-Acne,Pumpkin seeds,1/4 cup,Rich in zinc which reduces inflammation
-Acne,Berries,1 cup,Rich in antioxidants that fight inflammation
-Urinary tract infection,Cranberry juice (unsweetened),8oz daily,Contains proanthocyanidins which prevent bacterial adhesion
-Urinary tract infection,Blueberries,1 cup,Contains similar compounds to cranberries
-Urinary tract infection,Yogurt,1 cup,Contains probiotics which support urinary health
-Urinary tract infection,Garlic,1-2 cloves daily,Has antimicrobial properties
-Urinary tract infection,Kefir,1 cup,Rich source of probiotics
-Urinary tract infection,Lemon water,2-3 cups daily,Acidifies urine which may inhibit bacterial growth
-Urinary tract infection,Watermelon,1 cup,Natural diuretic that helps flush bacteria
-Psoriasis,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
-Psoriasis,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces inflammation
-Psoriasis,Avocados,1/4 fruit,Contains vitamin E which supports skin health
-Psoriasis,Pumpkin seeds,1/4 cup,Rich in zinc which supports skin healing
-Psoriasis,Carrots,1 cup raw,Rich in vitamin A which supports skin health
-Psoriasis,Berries,1 cup,Rich in antioxidants that fight inflammation
-Psoriasis,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
-Impetigo,Garlic,1-2 cloves daily,Has antimicrobial properties
-Impetigo,Turmeric with honey,1 teaspoon with 1 tbsp honey,Has antimicrobial and anti-inflammatory properties
-Impetigo,Coconut oil,1-2 tablespoons,Contains lauric acid with antimicrobial properties
-Impetigo,Aloe vera juice,1/4 cup daily,Supports skin healing
-Impetigo,Yogurt,1 cup,Contains probiotics which support immune function
-Impetigo,Kiwi,1-2 fruits daily,Rich in vitamin C which supports skin healing
-Impetigo,Pumpkin seeds,1/4 cup,Rich in zinc which supports skin healing 
+Disease,Food_Category,Specific_Food,Quantity,Benefit
+Fungal infection,Antimicrobial,Fresh garlic,2-3 cloves daily,Contains allicin with antifungal properties
+Fungal infection,Probiotics,Greek yogurt with live cultures,1 cup daily,Provides probiotics to combat fungal overgrowth
+Fungal infection,Healthy fats,Coconut oil,1-2 tablespoons daily,Contains caprylic acid with antifungal properties
+Fungal infection,Spices,Turmeric,1 teaspoon with warm water daily,Has curcumin with antifungal properties
+Fungal infection,Spices,Ginger,1-inch piece fresh daily,Contains gingerol with antifungal properties
+Allergy,Omega-3 sources,Salmon,3oz serving twice weekly,Rich in omega-3 fatty acids that reduce inflammation
+Allergy,Nuts and seeds,Walnuts,1/4 cup daily,Contains omega-3 fatty acids and antioxidants
+Allergy,Vitamin C sources,Oranges,1 medium daily,High in vitamin C which supports immune function
+Allergy,Vitamin C sources,Kiwi,1-2 fruits daily,Excellent source of vitamin C and antioxidants
+Allergy,Berries,Strawberries,1 cup daily,Rich in quercetin which has antihistamine effects
+Allergy,Vegetables,Onions,1/2 cup daily,High in quercetin which reduces allergic responses
+Allergy,Natural remedies,Local honey,1 tablespoon daily,May help build tolerance to local pollen
+Allergy,Beverages,Green tea,2-3 cups daily,Contains EGCG which has antihistamine properties
+GERD,Grains,Oatmeal (plain),1 cup,Low-acid and high-fiber food that absorbs stomach acid
+GERD,Beverages,Ginger tea,2-3 cups daily,Reduces inflammation and soothes digestive tract
+GERD,Fruits,Bananas (ripe),1-2 daily,Low-acid fruit that coats the esophagus
+GERD,Fruits,Melons (honeydew/cantaloupe),1 cup,Alkaline fruit that neutralizes stomach acid
+GERD,Dairy,Plain yogurt,1 cup,Contains probiotics that improve digestion
+GERD,Herbs,Fennel,1/2 cup or as tea,Reduces acid reflux symptoms
+GERD,Beverages,Almond milk,1 cup,Alkaline beverage that neutralizes stomach acid
+Chronic cholestasis,Grains,Brown rice,1/2 cup cooked,High in fiber and easy to digest
+Chronic cholestasis,Legumes,Steamed lentils,1/2 cup,Plant-based protein that's gentle on the liver
+Chronic cholestasis,Vegetables,Steamed broccoli,1 cup,Contains compounds that support liver detoxification
+Chronic cholestasis,Protein,Lean chicken,3oz,Provides protein without excess fat
+Chronic cholestasis,Beverages,Green tea,2-3 cups,Contains catechins that support liver function
+Chronic cholestasis,Healthy fats,Avocado,1/4 fruit,Source of healthy fats that support bile production
+Chronic cholestasis,Vegetables,Beets,1/2 cup,Contains betaine which supports liver function
+Diabetes,Grains,Steel-cut oats,1/2 cup dry,Low glycemic index carbohydrate with fiber
+Diabetes,Grains,Quinoa,1/2 cup cooked,Complete protein with fiber that stabilizes blood sugar
+Diabetes,Vegetables,Spinach,2 cups raw,Rich in magnesium which improves insulin sensitivity
+Diabetes,Vegetables,Kale,2 cups raw,Low-carb vegetable rich in vitamins and minerals
+Diabetes,Dairy,Greek yogurt (plain),1 cup,High protein dairy with probiotics and calcium
+Diabetes,Fruits,Berries (blueberries/strawberries),1/2 cup,Low glycemic fruit with antioxidants
+Diabetes,Seeds,Chia seeds,2 tablespoons,High in fiber and omega-3 fatty acids
+Diabetes,Spices,Cinnamon,1/2 teaspoon daily,May help lower blood sugar levels
+Gastroenteritis,Fruits,Bananas,1 ripe banana,Easy to digest and replaces potassium
+Gastroenteritis,Grains,White rice,1/2 cup cooked,Binding food that firms up stools
+Gastroenteritis,Fruits,Applesauce (unsweetened),1/2 cup,Contains pectin which helps firm stools
+Gastroenteritis,Grains,Toast (white bread),1-2 slices,Easy to digest carbohydrate
+Gastroenteritis,Broths,Bone broth,1-2 cups,Provides electrolytes and is easy to digest
+Gastroenteritis,Beverages,Coconut water,1 cup,Natural source of electrolytes
+Bronchial Asthma,Seeds,Flaxseeds,1 tablespoon ground,Rich in omega-3 fatty acids that reduce inflammation
+Bronchial Asthma,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains EPA and DHA which reduce airway inflammation
+Bronchial Asthma,Vegetables,Spinach,2 cups raw,Rich in magnesium which relaxes bronchial muscles
+Bronchial Asthma,Vegetables,Kale,2 cups raw,High in antioxidants that reduce inflammation
+Bronchial Asthma,Vegetables,Sweet potatoes,1 medium,Rich in vitamin A which supports lung tissue health
+Bronchial Asthma,Spices,Ginger,1-inch piece fresh,Contains gingerols that reduce airway inflammation
+Bronchial Asthma,Spices,Turmeric with black pepper,1 teaspoon with pinch of pepper,Curcumin reduces inflammation when absorbed with piperine
+Hypertension,Vegetables,Beets,1 cup cooked,Contains nitrates that lower blood pressure
+Hypertension,Vegetables,Spinach,2 cups raw,Rich in potassium and magnesium that regulate blood pressure
+Hypertension,Fruits,Berries (all types),1 cup,Rich in flavonoids that improve blood vessel function
+Hypertension,Fruits,Bananas,1 medium,High in potassium which counters sodium's effects
+Hypertension,Grains,Oatmeal,1 cup cooked,Contains beta-glucan fiber that lowers blood pressure
+Hypertension,Dairy,Low-fat yogurt,1 cup,Good source of calcium which helps regulate blood pressure
+Hypertension,Fruits,Pomegranate,1/2 cup juice or 1/2 fruit,Contains polyphenols that reduce blood pressure
+Hypertension,Spices,Garlic,1-2 cloves daily,Contains allicin which relaxes blood vessels
+Migraine,Vegetables,Spinach,2 cups raw,Rich in magnesium which may prevent migraines
+Migraine,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
+Migraine,Seeds,Pumpkin seeds,1/4 cup,Excellent source of magnesium
+Migraine,Nuts,Almonds,1/4 cup,Contains magnesium and healthy fats
+Migraine,Fruits,Watermelon,1 cup,Provides hydration and electrolytes
+Migraine,Spices,Ginger,1-inch piece fresh or as tea,Reduces nausea and inflammation
+Migraine,Protein,Eggs,2 whole eggs,Vitamin B2 may reduce migraine frequency
+Cervical spondylosis,Protein,Salmon,3oz twice weekly,Rich in omega-3 fatty acids and vitamin D
+Cervical spondylosis,Seeds,Chia seeds,2 tablespoons,Contains omega-3 fatty acids and calcium
+Cervical spondylosis,Vegetables,Kale,2 cups raw,Rich in calcium and vitamin K for bone health
+Cervical spondylosis,Nuts,Almonds,1/4 cup,Good source of calcium and vitamin E
+Cervical spondylosis,Spices,Turmeric with black pepper,1 teaspoon with pinch of pepper,Anti-inflammatory when consumed with black pepper
+Cervical spondylosis,Fruits,Pineapple,1 cup,Contains bromelain which reduces inflammation
+Cervical spondylosis,Fruits,Cherries,1 cup,Contains anthocyanins with anti-inflammatory properties
+Jaundice,Vegetables,Carrots,1 cup raw,Contains beta-carotene which supports liver function
+Jaundice,Vegetables,Beets,1/2 cup cooked,Supports liver detoxification
+Jaundice,Fruits,Lemons,1/2 lemon in warm water,Stimulates liver enzymes and bile production
+Jaundice,Vegetables,Spinach,2 cups raw,Rich in chlorophyll which supports detoxification
+Jaundice,Grains,Barley water,2 cups daily,Helps flush toxins from the liver
+Jaundice,Vegetables,Tomatoes,1 cup,Contains lycopene which supports liver health
+Jaundice,Fruits,Papaya,1 cup,Contains papain which aids digestion
+Malaria,Herbs,Papaya leaves,1/4 cup juice daily,May help increase platelet count
+Malaria,Fruits,Oranges,1-2 daily,Rich in vitamin C which boosts immunity
+Malaria,Beverages,Coconut water,2-3 cups daily,Provides hydration and electrolytes
+Malaria,Beverages,Ginger tea,2-3 cups daily,Reduces fever and nausea
+Malaria,Beverages,Cinnamon tea,1-2 cups daily,Has antimicrobial properties
+Malaria,Beverages,Lemon water,2-3 cups daily,Provides vitamin C and aids detoxification
+Malaria,Beverages,Pomegranate juice,1 cup daily,Rich in iron and supports red blood cell production
+Chicken pox,Soups,Chicken soup,1-2 bowls daily,Provides hydration and nutrients
+Chicken pox,Vegetables,Mashed potatoes,1/2 cup,Easy to eat when mouth sores are present
+Chicken pox,Fruits,Bananas,1-2 daily,Easy to digest and nutritious
+Chicken pox,Grains,Oatmeal,1 cup cooked,Contains zinc and fiber
+Chicken pox,Dairy,Yogurt,1 cup,Cooling and soothing for fever
+Chicken pox,Soups,Carrot soup,1 bowl,Easy to digest and rich in vitamin A
+Chicken pox,Fruits,Watermelon,1 cup,Provides hydration and vitamin C
+Dengue,Herbs,Papaya leaves,1/4 cup juice daily,May help increase platelet count
+Dengue,Fruits,Pomegranate,1 fruit or 1 cup juice,Rich in iron and antioxidants
+Dengue,Beverages,Coconut water,2-3 cups daily,Natural source of electrolytes
+Dengue,Fruits,Kiwi,1-2 fruits daily,High in vitamin C which supports immunity
+Dengue,Beverages,Orange juice (fresh),1 cup daily,Rich in vitamin C and folate
+Dengue,Soups,Spinach soup,1 bowl daily,Rich in iron which supports blood production
+Dengue,Beverages,Wheatgrass juice,1/4 cup daily,May help increase platelet count
+Typhoid,Vegetables,Boiled potatoes,1/2 cup,Easy to digest carbohydrate
+Typhoid,Grains,Rice porridge (congee),1 bowl,Gentle on the digestive system
+Typhoid,Fruits,Bananas,1-2 ripe daily,Easy to digest and nutritious
+Typhoid,Fruits,Apple (peeled and cooked),1 medium,Contains pectin which helps with diarrhea
+Typhoid,Soups,Vegetable broth,2 cups daily,Provides nutrients in easily digestible form
+Typhoid,Dairy,Yogurt,1 cup,Provides probiotics to restore gut flora
+Typhoid,Beverages,Coconut water,2-3 cups daily,Natural source of electrolytes
+Hepatitis,Protein,Steamed white fish,4oz,Lean protein that's easy to digest
+Hepatitis,Vegetables,Boiled sweet potatoes,1 cup,Easy to digest complex carbohydrate
+Hepatitis,Grains,Cooked oatmeal,1 cup,Provides fiber without taxing the liver
+Hepatitis,Dairy,Greek yogurt,1 cup,Provides protein and probiotics
+Hepatitis,Beverages,Banana smoothie (no added sugar),1 cup,Easy to digest nutrients
+Hepatitis,Vegetables,Steamed broccoli,1 cup,Contains compounds that support liver detoxification
+Hepatitis,Fruits,Blueberries,1 cup,Rich in antioxidants that support liver health
+Tuberculosis,Soups,High-protein chicken soup,2 cups,Provides protein and hydration
+Tuberculosis,Protein,Eggs,2 whole daily,Complete protein source
+Tuberculosis,Dairy,Milk,2 cups daily,Source of calcium and protein
+Tuberculosis,Vegetables,Sweet potatoes,1 cup,Rich in vitamin A which supports immunity
+Tuberculosis,Vegetables,Spinach,2 cups raw,Rich in iron which is often depleted in TB
+Tuberculosis,Protein,Salmon,3oz twice weekly,Contains vitamin D which is important for TB recovery
+Tuberculosis,Nuts,Almonds,1/4 cup,Good source of vitamin E and healthy fats
+Common Cold,Soups,Chicken soup,2 cups,Anti-inflammatory and helps clear nasal passages
+Common Cold,Beverages,Honey-lemon tea,3 cups daily,Soothes throat and provides vitamin C
+Common Cold,Beverages,Ginger tea,2 cups daily,Reduces inflammation and fights viruses
+Common Cold,Fruits,Oranges,2 medium,Rich in vitamin C which supports immunity
+Common Cold,Dairy,Greek yogurt,1 cup,Contains probiotics which support immune function
+Common Cold,Spices,Garlic,1-2 cloves daily,Has antimicrobial properties
+Common Cold,Beverages,Turmeric milk,1 cup before bed,Anti-inflammatory and supports immunity
+Pneumonia,Soups,Protein-rich soup,2 cups,Provides nutrition in easily digestible form
+Pneumonia,Protein,Eggs,2 whole daily,Complete protein source
+Pneumonia,Dairy,Greek yogurt,1 cup,Provides protein and probiotics
+Pneumonia,Fruits,Berries,1 cup,Rich in antioxidants that support recovery
+Pneumonia,Vegetables,Leafy greens,2 cups raw,Rich in vitamins and minerals
+Pneumonia,Spices,Garlic,1-2 cloves daily,Has antimicrobial properties
+Pneumonia,Beverages,Ginger tea,2-3 cups daily,Reduces inflammation and supports immunity
+Heart attack,Protein,Salmon,4oz twice weekly,Rich in omega-3 fatty acids that reduce inflammation
+Heart attack,Grains,Oatmeal,1 cup,Contains beta-glucan which lowers cholesterol
+Heart attack,Nuts,Almonds,1/4 cup,Contains heart-healthy monounsaturated fats
+Heart attack,Fruits,Berries,1 cup,Rich in anthocyanins which improve heart health
+Heart attack,Vegetables,Leafy greens,2 cups raw,Rich in nitrates which improve blood vessel function
+Heart attack,Healthy fats,Avocado,1/4 fruit,Contains monounsaturated fats that lower LDL
+Heart attack,Oils,Olive oil,2 tablespoons,Rich in polyphenols and monounsaturated fats
+Varicose veins,Fruits,Blueberries,1 cup,Contains anthocyanins which strengthen blood vessels
+Varicose veins,Seeds,Chia seeds,2 tablespoons,Rich in omega-3 fatty acids which reduce inflammation
+Varicose veins,Vegetables,Asparagus,1 cup,Natural diuretic that reduces swelling
+Varicose veins,Healthy fats,Avocado,1/4 fruit,Contains vitamin E which improves circulation
+Varicose veins,Fruits,Watermelon,1 cup,Natural diuretic that reduces swelling
+Varicose veins,Spices,Ginger,1-inch piece fresh,Improves circulation and reduces inflammation
+Varicose veins,Spices,Garlic,1-2 cloves daily,Improves circulation and reduces inflammation
+Hypothyroidism,Seafood,Seaweed (nori/kelp),1 sheet or 1 tablespoon,Rich in iodine which is essential for thyroid function
+Hypothyroidism,Nuts,Brazil nuts,2 nuts daily,Excellent source of selenium which supports thyroid
+Hypothyroidism,Protein,Eggs,2 whole daily,Contains iodine and selenium
+Hypothyroidism,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids and vitamin D
+Hypothyroidism,Seeds,Pumpkin seeds,1/4 cup,Rich in zinc which supports thyroid function
+Hypothyroidism,Dairy,Yogurt,1 cup,Contains iodine and probiotics
+Hypothyroidism,Protein,Chicken,3-4oz,Good source of protein and zinc
+Hyperthyroidism,Vegetables,Cruciferous vegetables (broccoli/cauliflower),1 cup,Contains goitrogens which may help slow thyroid
+Hyperthyroidism,Dairy,Low-fat milk,1 cup,Good source of calcium which is often depleted
+Hyperthyroidism,Protein,Eggs,2 whole daily,Complete protein source
+Hyperthyroidism,Grains,Oatmeal,1 cup,Provides fiber and B vitamins
+Hyperthyroidism,Protein,Lean turkey,3-4oz,Good source of protein without excess iodine
+Hyperthyroidism,Fruits,Apples,1 medium,Contains pectin which helps with diarrhea
+Hyperthyroidism,Grains,Brown rice,1/2 cup cooked,Complex carbohydrate that provides steady energy
+Hypoglycemia,Grains,Quinoa,1/2 cup cooked,Complex carbohydrate with protein
+Hypoglycemia,Nut butters,Almond butter,2 tablespoons,Contains protein and healthy fats
+Hypoglycemia,Dairy,Greek yogurt,1 cup,High protein dairy with probiotics
+Hypoglycemia,Legumes,Lentils,1/2 cup cooked,Plant-based protein with fiber
+Hypoglycemia,Healthy fats,Avocado,1/4 fruit,Contains healthy fats that stabilize blood sugar
+Hypoglycemia,Protein,Chicken,3-4oz,Lean protein that doesn't raise blood sugar
+Hypoglycemia,Snacks,Apples with nut butter,1 apple with 1 tbsp nut butter,Balanced snack with fiber, protein and fat
+Osteoarthritis,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
+Osteoarthritis,Fruits,Tart cherries,1 cup or 1/4 cup juice,Contains anthocyanins that reduce inflammation
+Osteoarthritis,Spices,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces joint inflammation
+Osteoarthritis,Vegetables,Spinach,2 cups raw,Rich in antioxidants and vitamin K
+Osteoarthritis,Nuts,Walnuts,1/4 cup,Contains omega-3 fatty acids and antioxidants
+Osteoarthritis,Oils,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
+Osteoarthritis,Fruits,Pineapple,1 cup,Contains bromelain which reduces inflammation
+Arthritis,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
+Arthritis,Fruits,Tart cherries,1 cup or 1/4 cup juice,Contains anthocyanins that reduce inflammation
+Arthritis,Spices,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces joint inflammation
+Arthritis,Spices,Ginger,1-inch piece fresh,Contains gingerols that reduce inflammation
+Arthritis,Nuts,Walnuts,1/4 cup,Contains omega-3 fatty acids and antioxidants
+Arthritis,Vegetables,Spinach,2 cups raw,Rich in antioxidants and vitamin K
+Arthritis,Oils,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
+Vertigo,Vegetables,Low-sodium foods (fresh vegetables),2-3 cups daily,Reduces fluid retention that can worsen vertigo
+Vertigo,Beverages,Ginger tea,2-3 cups daily,Reduces nausea and dizziness
+Vertigo,Nuts,Almonds,1/4 cup,Contains vitamin E which improves circulation
+Vertigo,Fruits,Watermelon,1 cup,Provides hydration and electrolytes
+Vertigo,Fruits,Bananas,1-2 daily,Rich in potassium which helps regulate fluid balance
+Vertigo,Dairy,Yogurt,1 cup,Contains probiotics which may help inner ear health
+Vertigo,Protein,Fatty fish (salmon),3oz twice weekly,Contains vitamin D which supports inner ear health
+Acne,Protein,Wild salmon,3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
+Acne,Healthy fats,Avocados,1/4 fruit,Contains vitamin E which supports skin health
+Acne,Vegetables,Sweet potatoes,1 medium,Rich in vitamin A which regulates skin cell production
+Acne,Vegetables,Kale,2 cups raw,Rich in vitamins A and C which support skin health
+Acne,Beverages,Green tea,2-3 cups daily,Contains EGCG which reduces sebum production
+Acne,Seeds,Pumpkin seeds,1/4 cup,Rich in zinc which reduces inflammation
+Acne,Fruits,Berries,1 cup,Rich in antioxidants that fight inflammation
+Urinary tract infection,Beverages,Cranberry juice (unsweetened),8oz daily,Contains proanthocyanidins which prevent bacterial adhesion
+Urinary tract infection,Fruits,Blueberries,1 cup,Contains similar compounds to cranberries
+Urinary tract infection,Dairy,Yogurt,1 cup,Contains probiotics which support urinary health
+Urinary tract infection,Spices,Garlic,1-2 cloves daily,Has antimicrobial properties
+Urinary tract infection,Dairy,Kefir,1 cup,Rich source of probiotics
+Urinary tract infection,Beverages,Lemon water,2-3 cups daily,Acidifies urine which may inhibit bacterial growth
+Urinary tract infection,Fruits,Watermelon,1 cup,Natural diuretic that helps flush bacteria
+Psoriasis,Protein,Fatty fish (salmon/mackerel),3oz twice weekly,Contains omega-3 fatty acids that reduce inflammation
+Psoriasis,Spices,Turmeric with black pepper,1 teaspoon with pinch of pepper,Contains curcumin which reduces inflammation
+Psoriasis,Healthy fats,Avocados,1/4 fruit,Contains vitamin E which supports skin health
+Psoriasis,Seeds,Pumpkin seeds,1/4 cup,Rich in zinc which supports skin healing
+Psoriasis,Vegetables,Carrots,1 cup raw,Rich in vitamin A which supports skin health
+Psoriasis,Fruits,Berries,1 cup,Rich in antioxidants that fight inflammation
+Psoriasis,Oils,Olive oil,2 tablespoons,Contains oleocanthal which has anti-inflammatory effects
+Impetigo,Spices,Garlic,1-2 cloves daily,Has antimicrobial properties
+Impetigo,Natural remedies,Turmeric with honey,1 teaspoon with 1 tbsp honey,Has antimicrobial and anti-inflammatory properties
+Impetigo,Oils,Coconut oil,1-2 tablespoons,Contains lauric acid with antimicrobial properties
+Impetigo,Beverages,Aloe vera juice,1/4 cup daily,Supports skin healing
+Impetigo,Dairy,Yogurt,1 cup,Contains probiotics which support immune function
+Impetigo,Fruits,Kiwi,1-2 fruits daily,Rich in vitamin C which supports skin healing
+Impetigo,Seeds,Pumpkin seeds,1/4 cup,Rich in zinc which supports skin healing 
